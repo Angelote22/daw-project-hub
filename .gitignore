@@ -1,3 +1,7 @@
 .env
+*.log
+notas-temporales.txt
+.vscode/
+.idea/
 node_modules/
 .DS_Store

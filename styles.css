@@ -6,3 +6,27 @@ body {
     background-color: #f4f4f9;
     color: #333;
 }
+/* Estilos para los párrafos de la sección principal */
+p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.8;
+  margin-bottom: 20px;
+  padding: 15px;
+  border-left: 5px solid;
+  border-radius: 4px;
+}
+
+.parrafo-desarrollo {
+  border-color: #3498db; /* Borde Azul */
+  background-color: #eaf2f8;
+}
+
+.parrafo-despliegue {
+  border-color: #2ecc71; /* Borde Verde */
+  background-color: #eafaf1;
+}
+
+.parrafo-colaboracion {
+  border-color: #e67e22; /* Borde Naranja */
+  background-color: #fef5e7;
+}

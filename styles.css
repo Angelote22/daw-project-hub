@@ -30,3 +30,13 @@ p {
   border-color: #e67e22; /* Borde Naranja */
   background-color: #fef5e7;
 }
+/* Estilos para los subtítulos h3 */
+h3 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #2c3e50;
+  margin-top: 25px;
+  margin-bottom: 8px;
+  font-size: 1.25rem;
+  border-bottom: 2px solid #ecf0f1;
+  padding-bottom: 4px;
+}
